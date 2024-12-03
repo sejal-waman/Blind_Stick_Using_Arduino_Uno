@@ -1,31 +1,31 @@
-#Smart Blind Stick - An IoT Project for Visually Impaired Users
+#Smart Blind Stick - An IoT Project for Visually Impaired Users#
 
 The Smart Blind Stick is an assistive device designed to empower visually impaired individuals by enhancing their ability to navigate their surroundings safely and independently. This project leverages Arduino and IoT technology to provide real-time obstacle detection and user assistance. The device is compact, cost-effective, and easy to use, aiming to make a positive impact on the lives of its users.
 
-#Features
+#Features#
 
-*Obstacle Detection*
+*Obstacle Detection-*
 
 Uses ultrasonic sensors to detect obstacles in the user’s path.
 
 Alerts the user through vibration and sound feedback when an obstacle is detected within a predefined range.
 
 
-*Real-Time Data Processing*
+*Real-Time Data Processing-*
 
 Implements efficient algorithms in C language to process sensor data instantly.
 
 Ensures timely feedback to the user for a seamless navigation experience.
 
 
-*User-Friendly Interface*
+*User-Friendly Interface-*
 
 Provides an intuitive interface for configuring sensitivity settings, alert modes, and other parameters.
 
 Configuration can be done through simple button-based inputs.
 
 
-*Portable and Lightweight Design*
+*Portable and Lightweight Design-*
 
 Designed for daily use with an ergonomic structure.
 
@@ -35,9 +35,9 @@ Lightweight to ensure user comfort over extended periods.
 
 
 
-#Components
+#Components#
 
-*Hardware*
+*Hardware-*
 
 1. Arduino Uno
 
@@ -70,7 +70,7 @@ Battery-operated for portability.
 
 
 
-*Software*
+*Software-*
 
 Programming Language: C
 
@@ -79,7 +79,7 @@ Development Environment: Arduino IDE
 
 
 
-#How It Works
+#How It Works#
 
 1. Sensor Detection
 
@@ -102,18 +102,18 @@ The vibration motor and buzzer provide tactile and auditory alerts, helping the 
 
 
 
-#Code Features
+#Code Features#
 
-*Optimized Sensor Integration*
+*Optimized Sensor Integration-*
 
 Ensures accurate obstacle detection with minimal latency.
 
 
-*Customizable Thresholds*
+*Customizable Thresholds-*
 
 Users can set their preferred detection range.
 
 
-L*ow Power Consumption*
+*Low Power Consumption-*
 
 Efficient coding practices minimize power usage, extending battery life.
