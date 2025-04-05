@@ -35,7 +35,7 @@ Lightweight to ensure user comfort over extended periods.
 
 
 
-### Components:###
+### Components:
 
 ## Hardware-
 
@@ -102,7 +102,7 @@ The vibration motor and buzzer provide tactile and auditory alerts, helping the 
 
 
 
-## Code Features#
+## Code Features:
 
 *Optimized Sensor Integration-*
 
